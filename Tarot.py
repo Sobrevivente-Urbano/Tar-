@@ -23,7 +23,7 @@ cartas = {
     8: 'O Carro - Controle, rumo, oportunidades',
     9: 'A Força - Sensualidade, coragem, autocontrole',
     10: 'O Eremita - Reclusão, paciência, estudos',
-    11: 'A Roda da Fortuna', 
+    11: 'A Roda da Fortuna - Viagem, mudança inesperada, destino', 
     12: 'A Justiça - Negociações legais, reconciliação, ser justo', 
     13: 'O Enforcado - Estagnação, sacrifício, deixar ir',
     14: 'A Morte - Transformação, mudança, fim de ciclo',
