@@ -127,7 +127,7 @@ print(bcolors.HEADER + "Profissão, trabalho, saúde: " + bcolors.FAIL + cartas[
 print(bcolors.HEADER + "Associações, contratos, casamentos: " + bcolors.FAIL + cartas[mandala[6]])
 print(bcolors.HEADER + "Lado oculto, mudanças, transmutação: " + bcolors.FAIL + cartas[mandala[7]])
 print(bcolors.HEADER + "Justiça, viagens longas, religião: " + bcolors.FAIL + cartas[mandala[8]])
-print(bcolors.HEADER + "Reputação, status, méritos: " + cartas[mandala[9]])
+print(bcolors.HEADER + "Reputação, status, méritos: " + bcolors.FAIL + cartas[mandala[9]])
 print(bcolors.HEADER + "Relações com a sociedade, projetos: " + bcolors.FAIL + cartas[mandala[10]])
 print(bcolors.HEADER + "Inimigos ocultos, heranças cármicas: " + bcolors.FAIL + cartas[mandala[11]])
 print(bcolors.HEADER + "O momento: " + bcolors.FAIL +cartas[mandala[12]])
